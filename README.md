@@ -46,4 +46,4 @@ phishing-domain-detector/
 1. **Clone this repository:**
    ```bash
    git clone https://github.com/jaybadoge07/Phishing-Domain-Detection.gitector
-   cd phishing-domain-det
+   cd /path/filename.py
