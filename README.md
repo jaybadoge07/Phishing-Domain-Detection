@@ -11,9 +11,13 @@ Phishing websites often use deceptive or slightly altered domain names to trick 
 ---
 
 ## 📂 Project Structure
-
-
-
+phishing-domain-detector/
+│
+├── data/                    # CSV dataset with labeled domain names
+├── phishing_detector.ipynb  # Jupyter Notebook with the full ML pipeline
+├── domain_features.py       # Feature extraction functions (optional)
+├── requirements.txt         # Python package requirements
+└── README.md                # Project documentation
 
 ---
 
